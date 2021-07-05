@@ -1,0 +1,11 @@
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\bin\Debug\SistemaExperto.exe.config
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\bin\Debug\SistemaExperto.exe
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\bin\Debug\SistemaExperto.pdb
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\obj\Debug\SistemaExperto.csproj.AssemblyReference.cache
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\obj\Debug\SistemaExperto.Form1.resources
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\obj\Debug\SistemaExperto.Properties.Resources.resources
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\obj\Debug\SistemaExperto.csproj.GenerateResource.cache
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\obj\Debug\SistemaExperto.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\obj\Debug\SistemaExperto.csproj.CopyComplete
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\obj\Debug\SistemaExperto.exe
+D:\Documentos\Proyectos Visual Studio\SistemaExperto\SistemaExperto\obj\Debug\SistemaExperto.pdb
